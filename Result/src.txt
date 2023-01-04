@@ -1,0 +1,13 @@
+[E:\idea_DATA\homework\untitled4\src] Result:
+
+Files detail:
++src
+    -CompareName.java                   	Total:	   12, Blank:	    4,	  237 Bytes
+    -FilePro.java                       	Total:	   97, Blank:	   16,	 4017 Bytes
+    -JavaSourceCounter.java             	Total:	  109, Blank:	   24,	 2578 Bytes
+    -Main.java                          	Total:	   92, Blank:	    5,	 3680 Bytes
+Total:
+	    4 Java Files
+	  310 lines in files
+	   49 blank lines
+	10512 bytes
